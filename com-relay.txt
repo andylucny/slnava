@@ -1,0 +1,2 @@
+COM5, cez hub COM6
+9600, 8, 1, none
